@@ -5,7 +5,7 @@ I'm Ved Prakash Dubey, a 20-year old technology enthusiast who does python and m
 
 - 🌱 I’m currently learning Deep Learning frameworks
 - 👯 I'd love to collaborate on ML/DL projects
-- 😄 Interested in competitive gaming
+- 😄 Gaming whenever I can
 
 
 [![Ved's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VedPDubey&count_private=true&theme=tokyonight&showicons=true)]()
