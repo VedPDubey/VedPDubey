@@ -8,7 +8,8 @@ I'm Ved Prakash Dubey, a 20-year old technology enthusiast who does python and m
 - 😄 Gaming whenever I can
 
 
-[![Ved's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VedPDubey&count_private=true&theme=tokyonight&showicons=true)]()
+![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedPDubey&show_icons=true&theme=radical)
+
 
 
 
