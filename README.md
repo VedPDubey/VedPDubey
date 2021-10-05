@@ -1,5 +1,5 @@
 ## Hi there I'm Ved👋
-I'm Ved Prakash Dubey, a 20-year old technology enthusiast who does python and machine learning development. I love building impactful projects and exploring insightful new things.<br>
+I'm Ved Prakash Dubey, a junior year technology enthusiast who does python and machine learning development. I love building impactful projects and exploring insightful new things.<br>
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ved-prakash-dubey-swash/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/VedPDubey)
 
